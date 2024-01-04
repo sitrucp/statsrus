@@ -1,0 +1,197 @@
+"id","name","description","inactive","created","modified","url","geo_name","agency_name","slug","region","url_prefix","screenshot_missing"
+23,"Albania",NULL,NULL,"2016-07-05 23:30:03.585-04",NULL,"instat.gov.al",NULL,"Institute of Statistics (INSTAT)","albania","Europe","http://",NULL
+31,"Austria",NULL,NULL,"2016-07-05 23:30:03.593-04",NULL,"statistik.at",NULL,"Statistik Austria","austria","Europe","http://",NULL
+166,"Saint Kitts and Nevis",NULL,NULL,"2016-07-05 23:30:03.741-04",NULL,"gov.kn",NULL,"Statistics Department","saint_kitts_and_nevis","South America","http://www.",NULL
+39,"Belize",NULL,NULL,"2016-07-05 23:30:03.601-04",NULL,"sib.org.bz",NULL,"Statistical Institute of Belize","belize","South America","http://www.",NULL
+40,"Benin",NULL,NULL,"2016-07-05 23:30:03.605-04",NULL,"insae-bj.org",NULL,"Institut National de la Statistique Benin (INSAE)","benin","Africa","http://",NULL
+64,"Curaçao",NULL,NULL,"2016-07-05 23:30:03.629-04",NULL,"cbs.an",NULL,"Central Bureau of Statistics","curacao","Pacific","http://www.",NULL
+42,"Bolivia",NULL,NULL,"2016-07-05 23:30:03.605-04",NULL,"ine.gob.bo",NULL,"Instituto Nacional de Estadística","bolivia","South America","http://www.",NULL
+215,"Vanuatu",NULL,NULL,"2016-07-05 23:30:03.789-04",NULL,"vnso.gov.vu",NULL,"Vanuatu National Statistics Office (VNSO)","vanuatu","Pacific","http://",NULL
+43,"Bosnia and Herzegovina",NULL,NULL,"2016-07-05 23:30:03.605-04",NULL,"bhas.ba",NULL,"Agency of Statistics of Bosnia and Herzegovina (BHAS)","bosnia_and_herzegovina","Europe","http://",NULL
+44,"Botswana",NULL,NULL,"2016-07-05 23:30:03.609-04",NULL,"gov.bw/en/Citizens/Topics/Statistics/",NULL,"Central Statistics Office of Botswana","botswana","Africa","http://",NULL
+45,"Brazil",NULL,NULL,"2016-07-05 23:30:03.609-04",NULL,"ibge.gov.br",NULL,"Brazilian Institute of Geography and Statistics (IBGE)","brazil","South America","http://",NULL
+191,"Tajikistan",NULL,NULL,"2016-07-05 23:30:03.765-04",NULL,"stat.tj",NULL,"State Committee on Statistics of Tajikistan","tajikistan","Central Asia","http://",NULL
+141,"Myanmar",NULL,NULL,"2016-07-05 23:30:03.714-04",NULL,"csostat.gov.mm",NULL,"Central Statistical Organization","myanmar","Southeast Asia","http://www.",NULL
+74,"Egypt",NULL,NULL,"2016-07-05 23:30:03.641-04",NULL,"capmas.gov.eg",NULL,"CAPMAS","egypt","Africa","http://",NULL
+214,"Uzbekistan",NULL,NULL,"2016-07-05 23:30:03.789-04",NULL,"stat.uz",NULL,"State Committee of the Republic of Uzbekistan on Statistics","uzbekistan","Central Asia","http://",NULL
+37,"Belarus",NULL,NULL,"2016-07-05 23:30:03.597-04",NULL,"belstat.gov.by",NULL,"National Statistical Committee of the Republic of Belarus (BELSTAT)","belarus","Europe","http://",NULL
+104,"Iraq",NULL,NULL,"2016-07-05 23:30:03.673-04",NULL,"cosit.gov.iq",NULL,"Central organization for statistics and information technology (COSIT)","iraq","Middle East","http://",NULL
+155,"Palestinian Authority",NULL,NULL,"2016-07-05 23:30:03.729-04",NULL,"pcbs.gov.ps",NULL,"Palestinian Central Bureau of Statistics","palestinian_authority","Middle East","http://",NULL
+203,"United Arab Emirates",NULL,NULL,"2016-07-05 23:30:03.777-04",NULL,"uaestatistics.gov.ae",NULL,"National Bureau of Statistics","united_arab_emirates","Middle East","http://",NULL
+12,"Afghanistan",NULL,NULL,"2016-07-05 23:27:48.817-04",NULL,"cso.gov.af/en",NULL,"Central Statistics Organization","afghanistan","South Asia","http://",NULL
+30,"Australia",NULL,NULL,"2016-07-05 23:30:03.593-04",NULL,"abs.gov.au",NULL,"Australian Bureau of Statistics (ABS)","australia","Pacific","http://",NULL
+77,"Eritrea",NULL,NULL,"2016-07-05 23:30:03.645-04",NULL,NULL,NULL,"National Statistics Office","eritrea","Africa","http://www.",NULL
+35,"Bangladesh",NULL,NULL,"2016-07-05 23:30:03.597-04",NULL,"bbs.gov.bd",NULL,"Bangladesh Bureau of Statistics","bangladesh","South Asia","http://",NULL
+20,"Andorra",NULL,NULL,"2016-07-05 23:29:27.583-04",NULL,"estadistica.ad/serveiestudis/web/index.asp",NULL,"Department of Statistics (DS)","andorra","Europe","http://www.",NULL
+66,"Czech Republic",NULL,NULL,"2016-07-05 23:30:03.633-04",NULL,"czso.cz",NULL,"Czech Statistical Office (?SU)","czech_republic","Europe","http://",NULL
+56,"China",NULL,NULL,"2016-07-05 23:30:03.621-04",NULL,"stats.gov.cn",NULL,"National Bureau of Statistics of China","china","East Asia","http://www.",NULL
+50,"Cambodia",NULL,NULL,"2016-07-05 23:30:03.613-04",NULL,"nis.gov.kh",NULL,"National Institute of Statistics of Cambodia","cambodia","Southeast Asia","http://",NULL
+58,"Comoros",NULL,NULL,"2016-07-05 23:30:03.625-04",NULL,NULL,NULL,"Direction de la Statistique","comoros","Middle East","http://www.",NULL
+76,"Equatorial Guinea",NULL,NULL,"2016-07-05 23:30:03.645-04",NULL,"dgecnstat-ge.org",NULL,"Direction Générale des Statistiques","equatorial_guinea","Africa","http://www.",NULL
+213,"Uruguay",NULL,NULL,"2016-07-05 23:30:03.789-04",NULL,"ine.gub.uy",NULL,"Instituto Nacional de Estadística","uruguay","South America","http://",NULL
+36,"Barbados",NULL,NULL,"2016-07-05 23:30:03.597-04",NULL,"barstats.gov.bb",NULL,"Barbados Statistical Service","barbados","South America","http://",NULL
+121,"Liechtenstein",NULL,NULL,"2016-07-05 23:30:03.69-04",NULL,"as.llv.li",NULL,"Office of Statistics (AS)","liechtenstein","Europe","http://",NULL
+101,"India",NULL,NULL,"2016-07-05 23:30:03.669-04",NULL,"mospi.nic.in/Mospi_New/site/home.aspx",NULL,"Central Statistical Office (India)","india","South Asia","http://",NULL
+78,"Estonia",NULL,NULL,"2016-07-05 23:30:03.645-04",NULL,"stat.ee",NULL,"Statistics Estonia","estonia","Europe","http://",NULL
+80,"Faroe Islands",NULL,NULL,"2016-07-05 23:30:03.649-04",NULL,"stat.fi",NULL,"Statistics Faroe Islands","faroe_islands","Europe","http://",NULL
+81,"Federated States of Micronesia",NULL,NULL,"2016-07-05 23:30:03.649-04",NULL,"sboc.fm/index.php",NULL,"Federated States of Micronesia Division of Statistics","federated_states_of_micronesia","Pacific","http://",NULL
+82,"Fiji",NULL,NULL,"2016-07-05 23:30:03.649-04",NULL,"statsfiji.gov.fj",NULL,"Fiji Islands Bureau of Statistics","fiji","Pacific","http://www.",NULL
+83,"Finland",NULL,NULL,"2016-07-05 23:30:03.653-04",NULL,"hagstova.fo",NULL,"Statistics Finland","finland","Europe","http://",NULL
+84,"France",NULL,NULL,"2016-07-05 23:30:03.653-04",NULL,"insee.fr",NULL,"National Institute of Statistics and Economic Studies (INSEE)","france","Europe","http://www.",NULL
+86,"Gambia",NULL,NULL,"2016-07-05 23:30:03.653-04",NULL,"gambia.gm/Statistics",NULL,"Central Statistics Department","gambia","Africa","http://",NULL
+89,"Ghana",NULL,NULL,"2016-07-05 23:30:03.657-04",NULL,"statsghana.gov.gh",NULL,"Ghana Statistical Service (GSS)","ghana","Africa","http://",NULL
+90,"Greece",NULL,NULL,"2016-07-05 23:30:03.657-04",NULL,"statistics.gr",NULL,"Hellenic Statistical Authority (EL.STAT.)","greece","Europe","http://",NULL
+91,"Guatemala",NULL,NULL,"2016-07-05 23:30:03.661-04",NULL,"ine.gob.gt",NULL,"Instituto Nacional de Estadística","guatemala","South America","http://",NULL
+93,"Guinea-Bissau",NULL,NULL,"2016-07-05 23:30:03.661-04",NULL,"stat-guinebissau.com",NULL,"Instituto Nacional de Estatistica e Censos (Guinea-Bissau)","guinea-bissau","Africa","http://www.",NULL
+94,"Guyana",NULL,NULL,"2016-07-05 23:30:03.665-04",NULL,"statisticsguyana.gov.gy",NULL,"Guyana Bureau of Statistics","guyana","South America","http://",NULL
+95,"Haiti",NULL,NULL,"2016-07-05 23:30:03.665-04",NULL,"ihsi.ht",NULL,"Institut haïtien de statistique et d’informatique (IHSI)","haiti","South America","http://",NULL
+96,"Honduras",NULL,NULL,"2016-07-05 23:30:03.665-04",NULL,"ine.gob.hn",NULL,"Instituto Nacional de Estadística y Censos","honduras","South America","http://",NULL
+87,"Georgia",NULL,NULL,"2016-07-05 23:30:03.657-04",NULL,"geostat.ge",NULL,"National Statistics Office (GeoStat)","georgia","Middle East","http://",NULL
+103,"Iran",NULL,NULL,"2016-07-05 23:30:03.673-04",NULL,"amar.org.ir",NULL,"Statistical Centre of Iran","iran","South Asia","http://www.",NULL
+99,"Iceland",NULL,NULL,"2016-07-05 23:30:03.669-04",NULL,"statice.is",NULL,"Statistics Iceland","iceland","Europe","http://",NULL
+114,"Kosovo",NULL,NULL,"2016-07-05 23:30:03.686-04",NULL,"esk.rks-gov.net",NULL,"Kosovo Agency of Statistics (ASK)","kosovo","Europe","http://",NULL
+105,"Ireland",NULL,NULL,"2016-07-05 23:30:03.673-04",NULL,"cso.ie",NULL,"Central Statistics Office (CSO)","ireland","Europe","http://",NULL
+107,"Italy",NULL,NULL,"2016-07-05 23:30:03.677-04",NULL,"istat.it",NULL,"National Institute of Statistics (ISTAT)","italy","Europe","http://www.",NULL
+108,"Jamaica",NULL,NULL,"2016-07-05 23:30:03.677-04",NULL,"statinja.gov.jm",NULL,"Statistical Institute of Jamaica","jamaica","South America","http://",NULL
+28,"Armenia",NULL,NULL,"2016-07-05 23:30:03.589-04",NULL,"armstat.am",NULL,"National Statistical Service of the Republic of Armenia (ARMSTAT)","armenia","Middle East","http://",NULL
+27,"Argentina",NULL,NULL,"2016-07-05 23:30:03.589-04",NULL,"indec.gov.ar",NULL,"Instituto Nacional de Estadística y Censos (INDEC)","argentina","South America","http://www.",NULL
+24,"Algeria",NULL,NULL,"2016-07-05 23:30:03.585-04",NULL,"ons.dz",NULL,"Office of National Statistics (Algeria)","algeria","Middle East","http://www.",NULL
+111,"Kazakhstan",NULL,NULL,"2016-07-05 23:30:03.682-04",NULL,"stat.gov.kz",NULL,"Agency of the Republic of Kazakhstan on statistics","kazakhstan","Central Asia","http://",NULL
+117,"Latvia",NULL,NULL,"2016-07-05 23:30:03.686-04",NULL,"csb.gov.lv",NULL,"Central Statistical Bureau of Latvia (CSP)","latvia","Europe","http://",NULL
+115,"Kyrgyzstan",NULL,NULL,"2016-07-05 23:30:03.686-04",NULL,"stat.kg",NULL,"National Statistical Committee of Kyrgyz Republic","kyrgyzstan","Central Asia","http://",NULL
+119,"Lesotho",NULL,NULL,"2016-07-05 23:30:03.69-04",NULL,"bos.gov.ls",NULL,"Bureau of Statistics","lesotho","Africa","http://www.",NULL
+123,"Luxembourg",NULL,NULL,"2016-07-05 23:30:03.694-04",NULL,"statistiques.public.lu",NULL,"Central Service for Statistics and Economic Studies (STATEC)","luxembourg","Europe","http://",NULL
+124,"Macedonia",NULL,NULL,"2016-07-05 23:30:03.694-04",NULL,"stat.gov.mk",NULL,"State Statistical Office (DZS)","macedonia","Europe","http://www.",NULL
+125,"Madagascar",NULL,NULL,"2016-07-05 23:30:03.694-04",NULL,"instat.mg",NULL,"Institut national de la statistique (Madagascar) (Institut national de la statistique (Madagascar)) (INSTAT) (French)","madagascar","Africa","http://",NULL
+133,"Mauritius",NULL,NULL,"2016-07-05 23:30:03.706-04",NULL,"statsmauritius.govmu.org",NULL,"Statistics Mauritius","mauritius","Africa","http://",NULL
+128,"Maldives",NULL,NULL,"2016-07-05 23:30:03.698-04",NULL,"planning.gov.mv",NULL,"Ministry of Planning and National Development","maldives","South Asia","http://",NULL
+129,"Mali",NULL,NULL,"2016-07-05 23:30:03.702-04",NULL,"instat.gov.ml",NULL,"Institut national de la statistique (Mali) (Institut national de la statistique (Mali)) (INSTAT) (French)","mali","Africa","http://",NULL
+130,"Malta",NULL,NULL,"2016-07-05 23:30:03.702-04",NULL,"nso.gov.mt",NULL,"National Statistics Office (NSO)","malta","Europe","http://",NULL
+131,"Marshall Islands",NULL,NULL,"2016-07-05 23:30:03.702-04",NULL,"spc.int/prism/marshalls/",NULL,"Office of Management and Statistics","marshall_islands","Pacific","http://",NULL
+134,"Mexico",NULL,NULL,"2016-07-05 23:30:03.706-04",NULL,"inegi.org.mx",NULL,"National Institute of Statistics, Geography and Data Processing (INEGI)","mexico","North America","http://",NULL
+135,"Moldova",NULL,NULL,"2016-07-05 23:30:03.706-04",NULL,"statistica.md",NULL,"National Bureau of Statistics of the Republic of Moldova (BNS)","moldova","Europe","http://",NULL
+136,"Monaco",NULL,NULL,"2016-07-05 23:30:03.706-04",NULL,"monacostatistics.mc",NULL,"Monaco Statistics (IMSEE)","monaco","Europe","http://",NULL
+70,"Djibouti",NULL,NULL,"2016-07-05 23:30:03.637-04",NULL,"dised.dj",NULL,"Direction des statistiques et des études démographiques (DISED)","djibouti","Middle East","http://www.",NULL
+110,"Jordan",NULL,NULL,"2016-07-05 23:30:03.682-04",NULL,"dos.gov.jo",NULL,"The Hashemite Kingdom of Jordan-Department of Statistics","jordan","Middle East","http://",NULL
+102,"Indonesia",NULL,NULL,"2016-07-05 23:30:03.673-04",NULL,"bps.go.id",NULL,"Statistics Indonesia","indonesia","Southeast Asia","http://",NULL
+127,"Malaysia",NULL,NULL,"2016-07-05 23:30:03.698-04",NULL,"statistics.gov.my",NULL,"Department of Statistics (Malaysia)","malaysia","Southeast Asia","http://www.",NULL
+106,"Israel",NULL,NULL,"2016-07-05 23:30:03.677-04",NULL,"cbs.gov.il",NULL,"Israel Central Bureau of Statistics","israel","Middle East","http://",NULL
+142,"Namibia",NULL,NULL,"2016-07-05 23:30:03.714-04",NULL,"nsa.org.na",NULL,"Namibia Statistics Authority (NSA)","namibia","Africa","http://",NULL
+143,"Nauru",NULL,NULL,"2016-07-05 23:30:03.714-04",NULL,"spc.int/prism/nauru",NULL,"Nauru Bureau of Statistics","nauru","Pacific","http://",NULL
+144,"Nepal",NULL,NULL,"2016-07-05 23:30:03.719-04",NULL,"cbs.gov.np",NULL,"Central Bureau of Statistics","nepal","South Asia","http://",NULL
+145,"Netherlands",NULL,NULL,"2016-07-05 23:30:03.72-04",NULL,"cbs.nl",NULL,"Statistics Netherlands (CBS)","netherlands","Europe","http://",NULL
+146,"New Zealand",NULL,NULL,"2016-07-05 23:30:03.721-04",NULL,"stats.govt.nz",NULL,"Statistics New Zealand","new_zealand","Pacific","http://",NULL
+147,"Nicaragua",NULL,NULL,"2016-07-05 23:30:03.721-04",NULL,"inide.gob.ni",NULL,"National Institute of Information Development","nicaragua","South America","http://",NULL
+148,"Niger",NULL,NULL,"2016-07-05 23:30:03.721-04",NULL,"stat-niger.org",NULL,"Institut National de la Statistique du Niger (INS)","niger","Africa","http://www.",NULL
+149,"Nigeria",NULL,NULL,"2016-07-05 23:30:03.721-04",NULL,"nigerianstat.gov.ng",NULL,"National Bureau of Statistics of Nigeria","nigeria","Africa","http://",NULL
+150,"Niue",NULL,NULL,"2016-07-05 23:30:03.721-04",NULL,"spc.int/prism/niue",NULL,"Niue Statistics","niue","Pacific","http://",NULL
+151,"Norway",NULL,NULL,"2016-07-05 23:30:03.725-04",NULL,"ssb.no",NULL,"Statistics Norway (SSB)","norway","Europe","http://",NULL
+153,"Pakistan",NULL,NULL,"2016-07-05 23:30:03.725-04",NULL,"pbs.gov.pk",NULL,"Pakistan Bureau of Statistics","pakistan","South Asia","http://",NULL
+157,"Papua New Guinea",NULL,NULL,"2016-07-05 23:30:03.729-04",NULL,"nso.gov.pg",NULL,"National Statistical Office of Papua New Guinea","papua_new_guinea","Pacific","http://",NULL
+158,"Paraguay",NULL,NULL,"2016-07-05 23:30:03.729-04",NULL,"dgeec.gov.py",NULL,"Direción General de Estadísticas, Encuestas y Censos","paraguay","South America","http://",NULL
+159,"Peru",NULL,NULL,"2016-07-05 23:30:03.733-04",NULL,"inei.gob.pe",NULL,"Instituto Nacional de Estadística e Informática","peru","South America","http://www.",NULL
+161,"Poland",NULL,NULL,"2016-07-05 23:30:03.733-04",NULL,"stat.gov.pl",NULL,"Central Statistical Office (GUS)","poland","Europe","http://",NULL
+162,"Portugal",NULL,NULL,"2016-07-05 23:30:03.733-04",NULL,"ine.pt",NULL,"Statistics Portugal (INE)","portugal","Europe","http://",NULL
+163,"Romania",NULL,NULL,"2016-07-05 23:30:03.737-04",NULL,"insse.ro",NULL,"National Institute of Statistics (INS)","romania","Europe","http://www.",NULL
+164,"Russia",NULL,NULL,"2016-07-05 23:30:03.737-04",NULL,"gks.ru",NULL,"Federal State Statistics Service (Rosstat)","russia","Europe","http://",NULL
+167,"Saint Lucia",NULL,NULL,"2016-07-05 23:30:03.741-04",NULL,"stats.gov.lc",NULL,"Government Statistics Department","saint_lucia","South America","http://",NULL
+168,"Samoa",NULL,NULL,"2016-07-05 23:30:03.741-04",NULL,"sbs.gov.ws",NULL,"Statistical Services Division","samoa","Pacific","http://",NULL
+170,"Sao Tome and Principe",NULL,NULL,"2016-07-05 23:30:03.745-04",NULL,"ine.st",NULL,"Instituto Nacional de Estatistica (São Tomé e Príncipe)","sao_tome_and_principe","Africa","http://",NULL
+199,"Turkmenistan",NULL,NULL,"2016-07-05 23:30:03.773-04",NULL,"stat.gov.tm",NULL,"State Committee of Turkmenistan on Statistics","turkmenistan","Central Asia","http://",NULL
+174,"Seychelles",NULL,NULL,"2016-07-05 23:30:03.749-04",NULL,"nbs.gov.sc",NULL,"National Statistics Bureau","seychelles","Africa","http://www.",NULL
+176,"Sint Maarten",NULL,NULL,"2016-07-05 23:30:03.749-04",NULL,"sintmaartengov.org/government/TEATT/STAT/Pages/default.aspx",NULL,"Central Bureau of Statistics","sint_maarten","Pacific","http://www.",NULL
+178,"Slovenia",NULL,NULL,"2016-07-05 23:30:03.753-04",NULL,"stat.si",NULL,"Statistical Office of the Republic of Slovenia (SURS)","slovenia","Europe","http://",NULL
+179,"Solomon Islands",NULL,NULL,"2016-07-05 23:30:03.753-04",NULL,"spc.int/prism/Solomons",NULL,"Solomon Islands Statistics","solomon_islands","Pacific","http://",NULL
+29,"Aruba",NULL,NULL,"2016-07-05 23:30:03.593-04",NULL,"cbs.aw",NULL,"Central Bureau of Statistics (Aruba)","aruba","South America","http://",NULL
+112,"Kenya",NULL,NULL,"2016-07-05 23:30:03.682-04",NULL,"knbs.or.ke",NULL,"Kenya national bureau of statistics (KNBS)","kenya","Africa","http://",NULL
+26,"Angola",NULL,NULL,"2016-07-05 23:30:03.589-04",NULL,"ine.gov.ao",NULL,"Instituto Nacional de Estatistica (Angola)","angola","Africa","http://",NULL
+75,"El Salvador",NULL,NULL,"2016-07-05 23:30:03.641-04",NULL,"digestyc.gob.sv",NULL,"Dirección General de Estadística y Censos","el_salvador","South America","http://www.",NULL
+79,"Ethiopia",NULL,NULL,"2016-07-05 23:30:03.649-04",NULL,"csa.gov.et",NULL,"Central Statistical Agency (CSA)","ethiopia","Africa","http://www.",NULL
+88,"Germany",NULL,NULL,"2016-07-05 23:30:03.657-04",NULL,"destatis.de",NULL,"Federal Statistical Office of Germany (Destatis)","germany","Europe","http://",NULL
+122,"Lithuania",NULL,NULL,"2016-07-05 23:30:03.69-04",NULL,"stat.gov.lt",NULL,"Department of Statistics (LSD)","lithuania","Europe","http://www.",NULL
+138,"Montenegro",NULL,NULL,"2016-07-05 23:30:03.71-04",NULL,"monstat.org",NULL,"Statistical Office of Montenegro (MONSTAT)","montenegro","Europe","http://",NULL
+169,"San Marino",NULL,NULL,"2016-07-05 23:30:03.745-04",NULL,"statistica.sm",NULL,"Office of Economic Planning, Data Processing and Statistics (UPECEDS)","san_marino","Europe","http://www.",NULL
+71,"Dominican Republic",NULL,NULL,"2016-07-05 23:30:03.637-04",NULL,"one.gob.do",NULL,"Oficina Nacional de Estadistica","dominican_republic","South America","http://",NULL
+92,"Guinea",NULL,NULL,"2016-07-05 23:30:03.661-04",NULL,"stat-guinee.org",NULL,"Direction nationale de la statistique (Guinée) (Direction nationale de la statistique (Guinée)) (DNS) (French)","guinea","Africa","http://www.",NULL
+156,"Panama",NULL,NULL,"2016-07-05 23:30:03.729-04",NULL,"contraloria.gob.pa/inec",NULL,"Dirección de Estadística y Censo","panama","South America","http://",NULL
+41,"Bhutan",NULL,NULL,"2016-07-05 23:30:03.605-04",NULL,"nsb.gov.bt",NULL,"Department of Planning","bhutan","South Asia","http://www.",NULL
+67,"Côte d'Ivoire",NULL,NULL,"2016-07-05 23:30:03.633-04",NULL,"ins.ci",NULL,"Institut National de la Statistique de Côte d'Ivoire (INS)","cote_d_ivoire","Africa","http://www.",NULL
+38,"Belgium",NULL,NULL,"2016-07-05 23:30:03.601-04",NULL,"statbel.fgov.be",NULL,"Statistics Belgium","belgium","Europe","http://",NULL
+113,"Kiribati",NULL,NULL,"2016-07-05 23:30:03.682-04",NULL,"spc.int/prism/kiribati",NULL,"Kiribati Statistics Office","kiribati","Pacific","http://",NULL
+180,"South Africa",NULL,NULL,"2016-07-05 23:30:03.753-04",NULL,"statssa.gov.za",NULL,"Statistics South Africa","south_africa","Africa","http://www.",NULL
+182,"South Sudan",NULL,NULL,"2016-07-05 23:30:03.757-04",NULL,"ssnb.org",NULL,"National Bureau of Statistics (NBS)","south_sudan","Africa","http://",NULL
+183,"Spain",NULL,NULL,"2016-07-05 23:30:03.757-04",NULL,"ine.es",NULL,"National Statistics Institute (INE)","spain","Europe","http://",NULL
+184,"Sri Lanka",NULL,NULL,"2016-07-05 23:30:03.757-04",NULL,"statistics.gov.lk",NULL,"Department of Census and Statistics","sri_lanka","South Asia","http://",NULL
+186,"Suriname",NULL,NULL,"2016-07-05 23:30:03.761-04",NULL,"statistics-suriname.org",NULL,"Foundation General Bureau of Statistical in Suriname","suriname","South America","http://",NULL
+187,"Swaziland",NULL,NULL,"2016-07-05 23:30:03.761-04",NULL,"swazistats.org.sz",NULL,"Central Statistics Office of Swaziland","swaziland","Africa","http://",NULL
+188,"Sweden",NULL,NULL,"2016-07-05 23:30:03.761-04",NULL,"scb.se",NULL,"Statistics Sweden (SCB)","sweden","Europe","http://",NULL
+189,"Switzerland",NULL,NULL,"2016-07-05 23:30:03.761-04",NULL,"bfs.admin.ch",NULL,"Federal Statistical Office (FSO)","switzerland","Europe","http://www.",NULL
+192,"Tanzania",NULL,NULL,"2016-07-05 23:30:03.765-04",NULL,"nbs.go.tz",NULL,"Bureau of Statistics (Tanzania)","tanzania","Africa","http://",NULL
+195,"Tonga",NULL,NULL,"2016-07-05 23:30:03.769-04",NULL,"spc.int/to/",NULL,"Government of Tonga-Statistics Department","tonga","Pacific","http://",NULL
+196,"Trinidad and Tobago",NULL,NULL,"2016-07-05 23:30:03.769-04",NULL,"cso.gov.tt",NULL,"Central Statistical Office","trinidad_and_tobago","South America","http://",NULL
+198,"Turkey",NULL,NULL,"2016-07-05 23:30:03.769-04",NULL,"turkstat.gov.tr",NULL,"Turkish Statistical Institute (TUIK)","turkey","Europe","http://www.",NULL
+175,"Sierra Leone",NULL,NULL,"2016-07-05 23:30:03.749-04",NULL,"statistics.sl",NULL,"Statistics Sierra Leone","sierra_leone","Africa","http://www.",NULL
+200,"Tuvalu",NULL,NULL,"2016-07-05 23:30:03.773-04",NULL,"spc.int/prism/tuvalu",NULL,"Central Statistics Division (CSD)","tuvalu","Pacific","http://",NULL
+201,"Uganda",NULL,NULL,"2016-07-05 23:30:03.773-04",NULL,"ubos.org",NULL,"Uganda Bureau of Statistics","uganda","Africa","http://",NULL
+204,"United Kingdom",NULL,NULL,"2016-07-05 23:30:03.777-04",NULL,"statistics.gov.uk",NULL,"Office for National Statistics (ONS)","united_kingdom","Europe","http://www.",NULL
+208,"United States - BJS",NULL,NULL,"2016-07-05 23:30:03.781-04",NULL,"ojp.usdoj.gov/bjs",NULL,"Bureau of Justice Statistics (BJS)","united_states_-_bjs","North America","http://www.",NULL
+139,"Morocco",NULL,NULL,"2016-07-05 23:30:03.71-04",NULL,"hcp.ma",NULL,"Haut Commissariat au Plan","morocco","Middle East","http://",NULL
+160,"Philippines",NULL,NULL,"2016-07-05 23:30:03.733-04",NULL,"psa.gov.ph",NULL,"Philippine Statistics Authority","philippines","Southeast Asia","http://",NULL
+152,"Oman",NULL,NULL,"2016-07-05 23:30:03.725-04",NULL,"ncsi.gov.om/Pages/NCSI.aspx",NULL,"Ministry of National Economy","oman","Middle East","http://",NULL
+185,"Sudan",NULL,NULL,"2016-07-05 23:30:03.757-04",NULL,"cbs.gov.sd",NULL,"Central Bureau of Statistics of Sudan","sudan","Middle East","http://",NULL
+116,"Laos",NULL,NULL,"2016-07-05 23:30:03.686-04",NULL,"lsb.gov.la",NULL,"Lao Statistics Bureau","laos","Southeast Asia","http://",NULL
+193,"Thailand",NULL,NULL,"2016-07-05 23:30:03.765-04",NULL,"web.nso.go.th",NULL,"National Statistical Office of Thailand (NSO)","thailand","Southeast Asia","http://",NULL
+72,"East Timor",NULL,NULL,"2016-07-05 23:30:03.641-04",NULL,"statistics.gov.tl",NULL,"Direcção Nacional de Estatística","east_timor","Southeast Asia","http://",NULL
+217,"Vietnam",NULL,NULL,"2016-07-05 23:30:03.793-04",NULL,"gso.gov.vn",NULL,"General Statistics Office of Vietnam","vietnam","Southeast Asia","http://",NULL
+118,"Lebanon",NULL,NULL,"2016-07-05 23:30:03.69-04",NULL,"cas.gov.lb",NULL,"Central Administration for Statistics (CAS)","lebanon","Middle East","http://",NULL
+190,"Syria",NULL,NULL,"2016-07-05 23:30:03.765-04",NULL,"cbssyr.sy",NULL,"Central Bureau of Statistics in Syria","syria","Middle East","http://",NULL
+197,"Tunisia",NULL,NULL,"2016-07-05 23:30:03.769-04",NULL,"ins.nat.tn",NULL,"National Institute of Statistics (INS)","tunisia","Middle East","http://www.",NULL
+132,"Mauritania",NULL,NULL,"2016-07-05 23:30:03.702-04",NULL,"ons.mr",NULL,"Office national de la statistique (Office national de la statistique) (ONS) (French)","mauritania","Middle East","http://",NULL
+171,"Saudi Arabia",NULL,NULL,"2016-07-05 23:30:03.745-04",NULL,"cdsi.gov.sa/en/node",NULL,"Central Department of Statistics","saudi_arabia","Middle East","http://www.",NULL
+218,"Yemen",NULL,NULL,"2016-07-05 23:30:03.793-04",NULL,"cso-yemen.org",NULL,"Central statistical organization (CSO)","yemen","Middle East","http://www.",NULL
+32,"Azerbaijan",NULL,NULL,"2016-07-05 23:30:03.593-04",NULL,"azstat.org",NULL,"State Statistical Committee of the Azerbaijan Republic","azerbaijan","Middle East","http://",NULL
+34,"Bahrain",NULL,NULL,"2016-07-05 23:30:03.597-04",NULL,"cbb.gov.bh",NULL,"Bahrain Monetary Agency","bahrain","Middle East","http://",NULL
+46,"Bulgaria",NULL,NULL,"2016-07-05 23:30:03.609-04",NULL,"nsi.bg",NULL,"National Statistical Institute (NSI)","bulgaria","Europe","http://",NULL
+47,"Burkina Faso",NULL,NULL,"2016-07-05 23:30:03.609-04",NULL,"insd.bf",NULL,"Institut national de la statistique et de la démographie (Institut national de la statistique et de la démographie) (INSD) (French)","burkina_faso","Africa","http://www.",NULL
+57,"Colombia",NULL,NULL,"2016-07-05 23:30:03.621-04",NULL,"dane.gov.co",NULL,"National Administrative Department of Statistics (Departamento Administrativo Nacional de Estadistica) (DANE)","colombia","South America","http://www.",NULL
+49,"Burundi",NULL,NULL,"2016-07-05 23:30:03.613-04",NULL,"isteebu.bi",NULL,"Institut de la Statistique et des Études Économiques du Burundi (ISEEBU)","burundi","Africa","http://",NULL
+51,"Cameroon",NULL,NULL,"2016-07-05 23:30:03.617-04",NULL,"statistics-cameroon.org",NULL,"National Institute of Statistics (INS)","cameroon","Africa","http://www.",NULL
+52,"Canada",NULL,NULL,"2016-07-05 23:30:03.617-04",NULL,"statcan.gc.ca/start-debut-eng.html",NULL,"Statistics Canada","canada","North America","http://",NULL
+53,"Cape Verde",NULL,NULL,"2016-07-05 23:30:03.617-04",NULL,"ine.cv",NULL,"Instituto Nacional de Estatistica (Cape Verde)","cape_verde","Africa","http://",NULL
+54,"Chad",NULL,NULL,"2016-07-05 23:30:03.617-04",NULL,"inseedtchad.com",NULL,"Institut national de la statistique, des études économiques et démographiques (Institut national de la statistique, des études économiques et démographiques) (INSEED) (French)","chad","Africa","http://",NULL
+55,"Chile",NULL,NULL,"2016-07-05 23:30:03.621-04",NULL,"ine.cl",NULL,"Instituto Nacional de Estadísticas","chile","South America","http://www.",NULL
+173,"Serbia",NULL,NULL,"2016-07-05 23:30:03.749-04",NULL,"webrzs.stat.gov.rs/WebSite/",NULL,"Statistical Office of the Republic of Serbia (RZS)","serbia","Europe","http://",NULL
+33,"Bahamas",NULL,NULL,"2016-07-05 23:30:03.597-04",NULL,"statistics.bahamas.gov.bs",NULL,"Department of Statistics (Bahamas)","bahamas","South America","http://",NULL
+59,"Congo",NULL,NULL,"2016-07-05 23:30:03.625-04",NULL,"cnsee.org",NULL,"Centre national de la statistique et des études économiques (Centre national de la statistique et des études économiques) (CNSEE) (French)","congo","Africa","http://www.",NULL
+60,"Cook Islands",NULL,NULL,"2016-07-05 23:30:03.625-04",NULL,"mfem.gov.ck",NULL,"Cook Islands Statistics Office","cook_islands","Pacific","http://",NULL
+61,"Costa Rica",NULL,NULL,"2016-07-05 23:30:03.625-04",NULL,"inec.go.cr",NULL,"Instituto Nacional de Estadística y Censos","costa_rica","South America","http://www.",NULL
+62,"Croatia",NULL,NULL,"2016-07-05 23:30:03.629-04",NULL,"dzs.hr",NULL,"Croatian Bureau of Statistics (DZS)","croatia","Europe","http://www.",NULL
+63,"Cuba",NULL,NULL,"2016-07-05 23:30:03.629-04",NULL,"one.cu",NULL,"Oficina Nacional de Estadísticas (ONE)","cuba","South America","http://",NULL
+65,"Cyprus",NULL,NULL,"2016-07-05 23:30:03.629-04",NULL,"cystat.gov.cy",NULL,"Statistical Service of Cyprus (CYSTAT)","cyprus","Europe","http://www.",NULL
+68,"Democratic Republic of Congo",NULL,NULL,"2016-07-05 23:30:03.633-04",NULL,"ins-rdc.org",NULL,"Institut National de la Statistique (INS)","democratic_republic_of_congo","Africa","http://",NULL
+69,"Denmark",NULL,NULL,"2016-07-05 23:30:03.637-04",NULL,"dst.dk",NULL,"Statistics Denmark","denmark","Europe","http://",NULL
+73,"Ecuador",NULL,NULL,"2016-07-05 23:30:03.641-04",NULL,"inec.gob.ec",NULL,"Instituto Nacional de Estadística y Censos","ecuador","South America","http://",NULL
+126,"Malawi",NULL,NULL,"2016-07-05 23:30:03.698-04",NULL,"nsomalawi.mw",NULL,"National Statistical Office","malawi","Africa","http://www.",NULL
+202,"Ukraine",NULL,NULL,"2016-07-05 23:30:03.773-04",NULL,"ukrstat.gov.ua",NULL,"State Statistics Service of Ukraine","ukraine","Europe","http://",NULL
+140,"Mozambique",NULL,NULL,"2016-07-05 23:30:03.714-04",NULL,"ine.gov.mz",NULL,"National Institute of Statistics (Instituto Nacional de Estatística, INE)","mozambique","Africa","http://",NULL
+98,"Hungary",NULL,NULL,"2016-07-05 23:30:03.669-04",NULL,"portal.ksh.hu",NULL,"Hungarian Central Statistical Office (KSH)","hungary","Europe","http://",NULL
+177,"Slovakia",NULL,NULL,"2016-07-05 23:30:03.753-04",NULL,"susr.sk",NULL,"Statistical Office of the Slovak Republic (SUSR)","slovakia","Europe","http://",NULL
+220,"Zimbabwe",NULL,NULL,"2016-07-05 23:30:03.797-04",NULL,"zimstat.co.zw",NULL,"Central Statistical Office of Zimbabwe","zimbabwe","Africa","http://www.",NULL
+207,"United States - BEA",NULL,NULL,"2016-07-05 23:30:03.781-04",NULL,"bea.gov",NULL,"Bureau of Economic Analysis (BEA)","united_states_-_bea","North America","http://",NULL
+205,"United States - NASS",NULL,NULL,"2016-07-05 23:30:03.777-04",NULL,"nass.usda.gov",NULL,"National Agricultural Statistics Service (NASS)","united_states_-_nass","North America","http://www.",NULL
+209,"United States - Census",NULL,NULL,"2016-07-05 23:30:03.785-04",NULL,"census.gov",NULL,"United States Census Bureau","united_states_-_census","North America","http://",NULL
+206,"United States - NCHS",NULL,NULL,"2016-07-05 23:30:03.781-04",NULL,"cdc.gov/nchs",NULL,"National Center for Health Statistics (NCHS)","united_states_-_nchs","North America","http://",NULL
+212,"United States - BLS",NULL,NULL,"2016-07-05 23:30:03.789-04",NULL,"bls.gov",NULL,"Bureau of Labor Statistics (BLS)","united_states_-_bls","North America","http://",NULL
+211,"United States - NCES",NULL,NULL,"2016-07-05 23:30:03.785-04",NULL,"nces.ed.gov",NULL,"National Center for Education Statistics (NCES)","united_states_-_nces","North America","http://",NULL
+85,"Gabon",NULL,NULL,"2016-07-05 23:30:03.653-04",NULL,"stat-gabon.org",NULL,"Direction générale de la statistique et des études économiques (Direction générale de la statistique et des études économiques) (DGSEE) (French)","gabon","Africa","http://www.",NULL
+120,"Liberia",NULL,NULL,"2016-07-05 23:30:03.69-04",NULL,"lisgis.net",NULL,"Liberia Institute of Statistics and Geo-Information Services (LISGIS)","liberia","Africa","http://",NULL
+154,"Palau",NULL,NULL,"2016-07-05 23:30:03.725-04",NULL,"palaugov.net/stats",NULL,"Office of Planning and Statistics (OPS)","palau","Pacific","http://",NULL
+165,"Rwanda",NULL,NULL,"2016-07-05 23:30:03.741-04",NULL,"statistics.gov.rw",NULL,"National Institute of Statistics of Rwanda (NISR)","rwanda","Africa","http://",NULL
+194,"Togo",NULL,NULL,"2016-07-05 23:30:03.769-04",NULL,"stat-togo.org",NULL,"Direction générale de la statistique et de la comptabilité nationale (Direction générale de la statistique et de la comptabilité nationale) (DGSCN) (French)","togo","Africa","http://www.",NULL
+216,"Venezuela",NULL,NULL,"2016-07-05 23:30:03.793-04",NULL,"ine.gov.ve",NULL,"Oficina Central de Estadística e Informática","venezuela","South America","http://www.",NULL
+172,"Senegal",NULL,NULL,"2016-07-05 23:30:03.745-04",NULL,"ansd.sn",NULL,"Agence nationale de la statistique et de la démographie (Agence nationale de la statistique et de la démographie) (ANSD) (French)","senegal","Africa","http://www.",NULL
+219,"Zambia",NULL,NULL,"2016-07-05 23:30:03.793-04",NULL,"zamstats.gov.zm",NULL,"Central Statistical Office of Zambia","zambia","Africa","http://",NULL
+97,"Hong Kong",NULL,NULL,"2016-07-05 23:30:03.665-04",NULL,"censtatd.gov.hk/home/index.jsp",NULL,"Census and Statistics Department","hong_kong","East Asia","http://",NULL
+109,"Japan",NULL,NULL,"2016-07-05 23:30:03.677-04",NULL,"stat.go.jp",NULL,"Bureau of Statistics (Japanese)","japan","East Asia","http://www.",NULL
+137,"Mongolia",NULL,NULL,"2016-07-05 23:30:03.71-04",NULL,"nso.mn",NULL,"National Statistical Office","mongolia","East Asia","http://",NULL
+181,"South Korea",NULL,NULL,"2016-07-05 23:30:03.753-04",NULL,"kostat.go.kr",NULL,"Statistics Korea (KOSTAT)","south_korea","East Asia","http://",NULL
